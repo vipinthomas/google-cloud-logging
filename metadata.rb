@@ -1,0 +1,12 @@
+name             'google-cloud-logging'
+maintainer       'cts-tech'
+maintainer_email 'vipinthomaskc@gmail.com'
+license          'All rights reserved'
+description      'Installs/Configures google-cloud-logging'
+long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
+version          '0.1.6'
+supports	 'amazonlinux'
+supports	 'debian'
+supports	 'ubuntu'
+supports	 'redhat'
+supports	 'centos'
