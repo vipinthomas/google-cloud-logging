@@ -31,6 +31,10 @@ This file is used to list changes made in each version of the google-cloud-loggi
 -----
 - Vipin Thomas - Documentation Changes
 
+0.1.7
+-----
+- Vipin Thomas - Version details with GitHub source link
+
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
 
